@@ -1,0 +1,919 @@
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\App.xbf
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\MainPage.xbf
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\Wehelp.xr.xml
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\Wehelp.exe
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\Wehelp.pdb
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\resources.pri
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\AppxManifest.xml
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\Core\AppxManifest.xml
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\Core\Wehelp.exe
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\Wehelp.build.appxrecipe
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\Microsoft.CSharp.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Core.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Net.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Numerics.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.Serialization.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.ServiceModel.Web.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.ServiceModel.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Windows.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Xml.Linq.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Xml.Serialization.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Xml.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\Microsoft.VisualBasic.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Private.DataContractSerialization.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.AppContext.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Collections.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Collections.Concurrent.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Collections.Immutable.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Collections.NonGeneric.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Collections.Specialized.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.ComponentModel.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.ComponentModel.Annotations.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Data.Common.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Diagnostics.Contracts.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Diagnostics.Debug.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Diagnostics.Tools.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Diagnostics.Tracing.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Dynamic.Runtime.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Globalization.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Globalization.Calendars.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Globalization.Extensions.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.IO.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.IO.Compression.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\ClrCompression.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.IO.FileSystem.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.IO.IsolatedStorage.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Linq.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Linq.Expressions.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Linq.Parallel.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Linq.Queryable.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Net.Http.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Net.Http.Rtc.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Net.NetworkInformation.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Net.Primitives.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Net.Requests.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Net.Sockets.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Numerics.Vectors.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.ObjectModel.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Private.Networking.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Private.ServiceModel.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Private.Uri.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.Context.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.Emit.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.Extensions.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.Metadata.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.Primitives.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Resources.ResourceManager.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.Extensions.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.Handles.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.InteropServices.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.Numerics.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Security.Claims.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Security.Principal.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.ServiceModel.Duplex.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.ServiceModel.Http.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.ServiceModel.Primitives.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.ServiceModel.Security.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Text.Encoding.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Text.RegularExpressions.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Threading.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Threading.Overlapped.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Threading.Tasks.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Threading.Timer.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Xml.ReaderWriter.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Xml.XDocument.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Xml.XmlDocument.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\System.Xml.XmlSerializer.dll
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\Wehelp.csprojResolveAssemblyReference.cache
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\App.g.i.cs
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\App.g.cs
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\MainPage.g.i.cs
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\MainPage.g.cs
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\App.xaml
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\MainPage.xaml
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\App.xbf
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\MainPage.xbf
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\XamlSaveStateFile.xml
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\Wehelp.exe
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\Wehelp.pdb
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\ResourceHandlingTask.state
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Collections.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.IO.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Linq.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Threading.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\priconfig.xml
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\priconfig.xml.intermediate
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\layout.resfiles
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\layout.resfiles.intermediate
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\resources.resfiles
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\resources.resfiles.intermediate
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\pri.resfiles
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\pri.resfiles.intermediate
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\qualifiers.txt
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\qualifiers.txt.intermediate
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\resources.en-us.resfiles
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\resources.en-us.resfiles.intermediate
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\ProjectArchitectures.txt
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\Signup.xbf
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\Signup.g.i.cs
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\Signup.g.cs
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\Signup.xaml
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\Signup.xbf
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\Friends.g.i.cs
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\Friends.g.cs
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\ItemInfo.g.i.cs
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\ItemInfo.g.cs
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\Signin.g.i.cs
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\Signin.g.cs
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\Signin.xaml
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\Friends.xaml
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\ItemInfo.xaml
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\Signin.xbf
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\Friends.xbf
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\ItemInfo.xbf
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\Friends.xbf
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\ItemInfo.xbf
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\Signin.xbf
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\AddItem.g.i.cs
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\AddItem.g.cs
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FinishedItem.g.i.cs
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FinishedItem.g.cs
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FinishedItem.xaml
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\AddItem.xaml
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\FinishedItem.xbf
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\AddItem.xbf
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\AddItem.xbf
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\FinishedItem.xbf
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\bin\x86\Debug\UserInfo.xbf
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\UserInfo.g.i.cs
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\UserInfo.g.cs
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\UserInfo.xaml
+F:\StudyFile\SophomoreSecondSemasterRicardo\现操\homework\期中project\Wehelp\Wehelp\obj\x86\Debug\UserInfo.xbf
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\App.xbf
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\AddItem.xbf
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\FinishedItem.xbf
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\Friends.xbf
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\ItemInfo.xbf
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\MainPage.xbf
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\Signin.xbf
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\Signup.xbf
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\UserInfo.xbf
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\Wehelp.xr.xml
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\Wehelp.exe
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\Wehelp.pdb
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\resources.pri
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\AppxManifest.xml
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\Core\Wehelp.exe
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\Wehelp.build.appxrecipe
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Core.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Net.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Numerics.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Windows.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Xml.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.AppContext.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Collections.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Data.Common.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Globalization.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.IO.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\ClrCompression.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Linq.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Net.Http.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Private.Networking.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Threading.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\Wehelp.csprojResolveAssemblyReference.cache
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\App.g.i.cs
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\App.g.cs
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\AddItem.g.i.cs
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\AddItem.g.cs
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FinishedItem.g.i.cs
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FinishedItem.g.cs
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\Friends.g.i.cs
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\Friends.g.cs
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\ItemInfo.g.i.cs
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\ItemInfo.g.cs
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\MainPage.g.cs
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\Signin.g.i.cs
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\Signin.g.cs
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\Signup.g.i.cs
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\Signup.g.cs
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\UserInfo.g.i.cs
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\UserInfo.g.cs
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\App.xaml
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\AddItem.xaml
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FinishedItem.xaml
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\Friends.xaml
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\ItemInfo.xaml
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\MainPage.xaml
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\Signin.xaml
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\Signup.xaml
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\UserInfo.xaml
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\App.xbf
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\AddItem.xbf
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FinishedItem.xbf
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\Friends.xbf
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\ItemInfo.xbf
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\MainPage.xbf
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\Signin.xbf
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\Signup.xbf
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\UserInfo.xbf
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\Wehelp.exe
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\Wehelp.pdb
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\priconfig.xml
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\layout.resfiles
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\resources.resfiles
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\pri.resfiles
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\qualifiers.txt
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\resources.en-us.resfiles
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\resources.en-us.resfiles.intermediate
+C:\Users\xmx\Documents\Visual Studio 2015\Projects\Wehelp\Wehelp\Wehelp\obj\x86\Debug\ProjectArchitectures.txt
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\App.xbf
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\AddItem.xbf
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\FinishedItem.xbf
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\Friends.xbf
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\ItemInfo.xbf
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\MainPage.xbf
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\Signin.xbf
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\Signup.xbf
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\UserInfo.xbf
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\Wehelp.xr.xml
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\Wehelp.exe
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\Wehelp.pdb
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\resources.pri
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\AppxManifest.xml
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\Core\AppxManifest.xml
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\Core\Wehelp.exe
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\Wehelp.build.appxrecipe
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\Microsoft.CSharp.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Core.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Net.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Numerics.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.Serialization.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.ServiceModel.Web.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.ServiceModel.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Windows.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Xml.Linq.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Xml.Serialization.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Xml.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\Microsoft.VisualBasic.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\Newtonsoft.Json.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Private.DataContractSerialization.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.AppContext.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Collections.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Collections.Immutable.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Collections.Specialized.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.ComponentModel.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.ComponentModel.Annotations.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Data.Common.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Globalization.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.IO.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.IO.Compression.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\ClrCompression.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.IO.FileSystem.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Linq.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Linq.Expressions.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Linq.Parallel.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Linq.Queryable.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Net.Http.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Net.Http.Rtc.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Net.Primitives.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Net.Requests.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Net.Sockets.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.ObjectModel.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Private.Networking.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Private.ServiceModel.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Private.Uri.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.Context.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.Emit.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.Metadata.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.Handles.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Security.Claims.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Security.Principal.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.ServiceModel.Duplex.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.ServiceModel.Http.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.ServiceModel.Primitives.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.ServiceModel.Security.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Text.Encoding.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Threading.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Threading.Tasks.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Threading.Timer.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Xml.XDocument.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\Wehelp.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\App.g.i.cs
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\App.g.cs
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\AddItem.g.i.cs
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\AddItem.g.cs
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FinishedItem.g.i.cs
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FinishedItem.g.cs
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\Friends.g.i.cs
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\Friends.g.cs
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\ItemInfo.g.i.cs
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\ItemInfo.g.cs
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\MainPage.g.i.cs
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\MainPage.g.cs
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\Signin.g.i.cs
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\Signin.g.cs
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\Signup.g.i.cs
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\Signup.g.cs
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\UserInfo.g.i.cs
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\UserInfo.g.cs
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\App.xaml
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\AddItem.xaml
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FinishedItem.xaml
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\Friends.xaml
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\ItemInfo.xaml
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\MainPage.xaml
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\Signin.xaml
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\Signup.xaml
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\UserInfo.xaml
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\App.xbf
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\AddItem.xbf
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FinishedItem.xbf
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\Friends.xbf
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\ItemInfo.xbf
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\MainPage.xbf
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\Signin.xbf
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\Signup.xbf
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\UserInfo.xbf
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\Wehelp.exe
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\Wehelp.pdb
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\ResourceHandlingTask.state
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Collections.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.IO.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Linq.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Threading.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\priconfig.xml
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\priconfig.xml.intermediate
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\layout.resfiles
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\layout.resfiles.intermediate
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\resources.resfiles
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\resources.resfiles.intermediate
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\pri.resfiles
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\pri.resfiles.intermediate
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\qualifiers.txt
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\resources.en-us.resfiles
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\resources.en-us.resfiles.intermediate
+D:\Program Files (x86)\缓存\WeChat Files\Stepven_YJh\Files\Wehelp\Wehelp\obj\x86\Debug\ProjectArchitectures.txt
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\App.xbf
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\AddItem.xbf
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\FinishedItem.xbf
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\Friends.xbf
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\ItemInfo.xbf
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\MainPage.xbf
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\Signin.xbf
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\Signup.xbf
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\UserInfo.xbf
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\Wehelp.xr.xml
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\Wehelp.exe
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\Wehelp.pdb
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\resources.pri
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\AppxManifest.xml
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\Core\AppxManifest.xml
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\Core\Wehelp.exe
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\Wehelp.build.appxrecipe
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\Microsoft.CSharp.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Core.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Net.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Numerics.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Runtime.Serialization.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.ServiceModel.Web.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.ServiceModel.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Windows.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Xml.Linq.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Xml.Serialization.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Xml.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\Microsoft.VisualBasic.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\Newtonsoft.Json.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Private.DataContractSerialization.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.AppContext.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Collections.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Collections.Immutable.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Collections.Specialized.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.ComponentModel.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.ComponentModel.Annotations.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Data.Common.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Globalization.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.IO.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.IO.Compression.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\ClrCompression.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.IO.FileSystem.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Linq.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Linq.Expressions.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Linq.Parallel.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Linq.Queryable.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Net.Http.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Net.Http.Rtc.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Net.Primitives.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Net.Requests.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Net.Sockets.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.ObjectModel.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Private.Networking.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Private.ServiceModel.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Private.Uri.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Reflection.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Reflection.Context.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Reflection.Emit.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Reflection.Metadata.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Runtime.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Runtime.Handles.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Security.Claims.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Security.Principal.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.ServiceModel.Duplex.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.ServiceModel.Http.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.ServiceModel.Primitives.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.ServiceModel.Security.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Text.Encoding.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Threading.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Threading.Tasks.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Threading.Timer.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Xml.XDocument.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\Wehelp.csprojResolveAssemblyReference.cache
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\App.g.i.cs
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\App.g.cs
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\AddItem.g.i.cs
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\AddItem.g.cs
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FinishedItem.g.i.cs
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FinishedItem.g.cs
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\Friends.g.i.cs
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\Friends.g.cs
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\ItemInfo.g.i.cs
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\ItemInfo.g.cs
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\MainPage.g.i.cs
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\MainPage.g.cs
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\Signin.g.i.cs
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\Signin.g.cs
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\Signup.g.i.cs
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\Signup.g.cs
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\UserInfo.g.i.cs
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\UserInfo.g.cs
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\App.xaml
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\AddItem.xaml
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FinishedItem.xaml
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\Friends.xaml
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\ItemInfo.xaml
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\MainPage.xaml
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\Signin.xaml
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\Signup.xaml
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\UserInfo.xaml
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\App.xbf
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\AddItem.xbf
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FinishedItem.xbf
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\Friends.xbf
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\ItemInfo.xbf
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\MainPage.xbf
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\Signin.xbf
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\Signup.xbf
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\UserInfo.xbf
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\XamlSaveStateFile.xml
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\Wehelp.exe
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\Wehelp.pdb
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\ResourceHandlingTask.state
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Collections.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.IO.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Linq.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Threading.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\priconfig.xml
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\priconfig.xml.intermediate
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\layout.resfiles
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\layout.resfiles.intermediate
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\resources.resfiles
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\resources.resfiles.intermediate
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\pri.resfiles
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\pri.resfiles.intermediate
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\qualifiers.txt
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\qualifiers.txt.intermediate
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\resources.en-us.resfiles
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\resources.en-us.resfiles.intermediate
+D:\UWP_Cocos\MidtermProject\源代码\客户端\Wehelp\obj\x86\Debug\ProjectArchitectures.txt

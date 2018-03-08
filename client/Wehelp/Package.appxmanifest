@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
+  <Identity Name="71bc54cd-023a-4421-a403-49098fbf4cd0" Publisher="CN=ASUS" Version="1.0.0.0" />
+  <mp:PhoneIdentity PhoneProductId="71bc54cd-023a-4421-a403-49098fbf4cd0" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Properties>
+    <DisplayName>Wehelp</DisplayName>
+    <PublisherDisplayName>ASUS</PublisherDisplayName>
+    <Logo>Assets\Logo.png</Logo>
+  </Properties>
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.0.0" MaxVersionTested="10.0.0.0" />
+  </Dependencies>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="Wehelp.App">
+      <uap:VisualElements DisplayName="Wehelp" Square150x150Logo="Assets\Logo.png" Square44x44Logo="Assets\Logo.png" Description="Wehelp" BackgroundColor="transparent">
+        <uap:DefaultTile Square310x310Logo="Assets\Logo.png" Wide310x150Logo="Assets\Logo.png">
+          <uap:ShowNameOnTiles>
+            <uap:ShowOn Tile="square150x150Logo" />
+            <uap:ShowOn Tile="wide310x150Logo" />
+            <uap:ShowOn Tile="square310x310Logo" />
+          </uap:ShowNameOnTiles>
+        </uap:DefaultTile>
+        <uap:SplashScreen Image="Assets\Logo.png" />
+      </uap:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

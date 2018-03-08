@@ -1,0 +1,68 @@
+﻿<Page
+    x:Class="Wehelp.FinishedItem"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Wehelp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:md="using:Wehelp.Models"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="70"></ColumnDefinition>
+                <ColumnDefinition Width="auto"></ColumnDefinition>
+                <ColumnDefinition Width="auto"></ColumnDefinition>
+                <ColumnDefinition Width="auto"></ColumnDefinition>
+                <ColumnDefinition Width="auto"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Ellipse Grid.Column="0" Width="50" Height="50" Margin="10,10,10,10">
+                <Ellipse.Fill>
+                    <ImageBrush x:Name="touxiang" ImageSource="Assets/1.jpg"/>
+                </Ellipse.Fill>
+            </Ellipse>
+            <TextBlock x:Name="clientName" Grid.Column="1" Text="username" VerticalAlignment="Center" Margin="4"/>
+            <TextBlock x:Name="marks" Grid.Column="2" Text="score" VerticalAlignment="Center" Margin="4"/>
+            <AppBarButton x:Name="userSetting"  Grid.Column="3" VerticalAlignment="Center" Icon="Setting" HorizontalAlignment="Center" Click="userSettingClick"></AppBarButton>
+            <Button Grid.Column="4" Content="Sign out" Margin="10" VerticalAlignment="Center" Click="signoutClick"/>
+        </Grid>
+
+        <ListView Grid.Row="1" x:Name="HelpListView" IsItemClickEnabled="True" ItemClick="helpListViewItemClick" ItemsSource="{x:Bind finishedItemViewModel.AllItems}">
+            <ListView.ItemTemplate>
+                <DataTemplate x:DataType="md:HelpItem">
+                    <UserControl>
+                        <Grid Height="100">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="auto"></ColumnDefinition>
+                                <ColumnDefinition Width="auto"/>
+                                <ColumnDefinition Width="auto"/>
+                                <ColumnDefinition Width="auto"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+
+                            <TextBlock Grid.Column="0" Text="{x:Bind cn}" VerticalAlignment="Center" Margin="8"/>
+                            <TextBlock Grid.Column="1" Text="{x:Bind type}" VerticalAlignment="Center" Margin="8"/>
+                            <TextBlock Grid.Column="2" Text="{x:Bind location}" VerticalAlignment="Center" Margin="8"></TextBlock>
+                            <TextBlock Grid.Column="3" Text="{x:Bind commission}" VerticalAlignment="Center" Margin="8"></TextBlock>
+                        </Grid>
+                    </UserControl>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton x:Name="finished" Icon="Bullets" Click="finishedClick"></AppBarButton>
+            <AppBarButton x:Name="friends" Icon="ContactInfo" Click="friendsClick"></AppBarButton>
+            <AppBarButton x:Name="create" Icon="Add" Label="Add" Click="createTask"></AppBarButton>
+            <AppBarButton x:Name="refresh" Icon="Refresh" Label="Update" Click="refreshClick"></AppBarButton>
+            <AppBarButton x:Name="home" Icon="Home" Click="homeClick"></AppBarButton>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>

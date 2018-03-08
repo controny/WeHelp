@@ -1,0 +1,41 @@
+<tile>
+	<visual>
+		<binding template="TileSmall"
+			branding = "none" hint-textStacking="center">
+      <image src = "Assets/1.jpg" placement="background"/>
+      <text hint-style="caption">0
+      </text>
+		</binding>
+		<binding template="TileMedium"
+			branding ="Name" displayName="Help Item">
+      <image src = "Assets/1.jpg" placement="background"/>
+			<text hint-style="caption">1
+			</text>
+			<text hint-style="captionsubtle" hint-wrap="true">2
+				1234567890
+			</text>
+		</binding>
+		<binding template="TileWide" branding ="Name"  displayName="Help Item">
+			<image src = "Assets/1.jpg" placement="background"/>
+      <text hint-style="caption">3
+      </text>
+      <text hint-style="captionsubtle" hint-wrap="true">4
+        1234567890
+      </text>
+      <text hint-align ="center" hint-wrap ="true">5
+        </text>
+		</binding>
+		<binding template="TileLarge" branding ="Name" displayName="Help Item">
+			<image src = "Assets/1.jpg" placement="background"/>
+      <text hint-style="caption">6
+        123231
+      </text>
+      <text hint-style="captionsubtle" hint-wrap="true">7
+        1234567890
+      </text>
+      <text hint-align ="center" hint-wrap ="true">8
+        5
+      </text>
+		</binding>
+	</visual>
+</tile>

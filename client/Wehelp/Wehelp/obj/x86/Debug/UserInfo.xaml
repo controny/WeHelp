@@ -1,0 +1,66 @@
+﻿<Page
+    x:Class="Wehelp.UserInfo"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Wehelp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="70"></ColumnDefinition>
+                <ColumnDefinition Width="auto"></ColumnDefinition>
+                <ColumnDefinition Width="auto"></ColumnDefinition>
+                <ColumnDefinition Width="auto"></ColumnDefinition>
+                <ColumnDefinition Width="auto"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Ellipse Grid.Column="0" Width="50" Height="50" Margin="10,10,10,10">
+                <Ellipse.Fill>
+                    <ImageBrush x:ConnectionId='12' x:Name="touxiang" ImageSource="Assets/1.jpg"/>
+                </Ellipse.Fill>
+            </Ellipse>
+            <TextBlock x:ConnectionId='8' x:Name="user" Grid.Column="1" Text="username" VerticalAlignment="Center" Margin="4"/>
+            <TextBlock x:ConnectionId='9' x:Name="score" Grid.Column="2" Text="score" VerticalAlignment="Center" Margin="4"/>
+            <AppBarButton x:ConnectionId='10' x:Name="userSetting"  Grid.Column="3" VerticalAlignment="Center" Icon="Setting" HorizontalAlignment="Center"></AppBarButton>
+            <Button x:ConnectionId='11' Grid.Column="4" Content="Sign out" Margin="10" VerticalAlignment="Center"                     />
+        </Grid>
+
+        <ScrollViewer Grid.Row="1" Margin="30" Width="450">
+            <StackPanel>
+                <Ellipse Grid.Column="0" Width="150" Height="150" Margin="10,10,10,10">
+                    <Ellipse.Fill>
+                        <ImageBrush x:ConnectionId='7' x:Name="headSculpture" ImageSource="Assets/1.jpg"/>
+                    </Ellipse.Fill>
+                </Ellipse>
+                <RelativePanel Width="250">
+                    <AppBarButton x:ConnectionId='6' x:Name="selectPictures" Icon="Pictures" Label="select" RelativePanel.AlignRightWithPanel="True"                      ></AppBarButton>
+                </RelativePanel>
+                <TextBox x:ConnectionId='1' x:Name="username" Width="300" Header="Username : " Margin="0,12,0,0" IsReadOnly="True"/>
+                <TextBox x:ConnectionId='2' x:Name="phone" Width="300" Header="Phone : " Margin="0,12,0,0"/>
+
+                <TextBox x:ConnectionId='3' x:Name="password" Width="300" Header="New Password : " Margin="0,12,0,0"/>
+                <RelativePanel Width="300" Margin="0,24,0,0">
+                    <Button x:ConnectionId='4' x:Name="submitButton" Content="Submit"                           Background="#1081CA"></Button>
+                    <Button x:ConnectionId='5' x:Name="cancelButton" Content="Cancel"                           RelativePanel.AlignRightWithPanel="True"></Button>
+                </RelativePanel>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton x:ConnectionId='13' x:Name="finished" Icon="Bullets"                      ></AppBarButton>
+            <AppBarButton x:ConnectionId='14' x:Name="friends" Icon="ContactInfo"                     ></AppBarButton>
+            <AppBarButton x:ConnectionId='15' x:Name="create" Icon="Add" Label="Add"                   ></AppBarButton>
+            <AppBarButton x:ConnectionId='16' x:Name="refresh" Icon="Refresh" Label="Update"                     ></AppBarButton>
+            <AppBarButton x:ConnectionId='17' x:Name="home" Icon="Home"                  ></AppBarButton>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+
