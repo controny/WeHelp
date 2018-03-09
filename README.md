@@ -10,31 +10,31 @@ UWP
 ## Screenshots
 
 Sign up.
-[](https://raw.githubusercontent.com/controny/WeHelp/master/doc/screenshots/register.png)
+![](https://raw.githubusercontent.com/controny/WeHelp/master/doc/screenshots/register.png)
 
 Sign in.
-[](https://raw.githubusercontent.com/controny/WeHelp/master/doc/screenshots/login.png)
+![](https://raw.githubusercontent.com/controny/WeHelp/master/doc/screenshots/login.png)
 
 Main page.
-[](https://raw.githubusercontent.com/controny/WeHelp/master/doc/screenshots/main.png)
+![](https://raw.githubusercontent.com/controny/WeHelp/master/doc/screenshots/main.png)
 
 Release a task.
-[](https://raw.githubusercontent.com/controny/WeHelp/master/doc/screenshots/release.png)
-[](https://raw.githubusercontent.com/controny/WeHelp/master/doc/screenshots/release2.png)
+![](https://raw.githubusercontent.com/controny/WeHelp/master/doc/screenshots/release.png)
+![](https://raw.githubusercontent.com/controny/WeHelp/master/doc/screenshots/release2.png)
 
 Check a task.
-[](https://raw.githubusercontent.com/controny/WeHelp/master/doc/screenshots/check.png)
-[](https://raw.githubusercontent.com/controny/WeHelp/master/doc/screenshots/check2.png)
+![](https://raw.githubusercontent.com/controny/WeHelp/master/doc/screenshots/check.png)
+![](https://raw.githubusercontent.com/controny/WeHelp/master/doc/screenshots/check2.png)
 
 Friends.
-[](https://raw.githubusercontent.com/controny/WeHelp/master/doc/screenshots/friends.png)
+![](https://raw.githubusercontent.com/controny/WeHelp/master/doc/screenshots/friends.png)
 
 Share.
-[](https://raw.githubusercontent.com/controny/WeHelp/master/doc/screenshots/share.png)
-[](https://raw.githubusercontent.com/controny/WeHelp/master/doc/screenshots/share2.png)
+![](https://raw.githubusercontent.com/controny/WeHelp/master/doc/screenshots/share.png)
+![](https://raw.githubusercontent.com/controny/WeHelp/master/doc/screenshots/share2.png)
 
 Change background.
-[](https://raw.githubusercontent.com/controny/WeHelp/master/doc/screenshots/change_bg.png)
+![](https://raw.githubusercontent.com/controny/WeHelp/master/doc/screenshots/change_bg.png)
 
 Edit personal information.
-[](https://raw.githubusercontent.com/controny/WeHelp/master/doc/screenshots/edit_info.png)
+![](https://raw.githubusercontent.com/controny/WeHelp/master/doc/screenshots/edit_info.png)
